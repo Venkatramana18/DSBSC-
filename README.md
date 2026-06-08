@@ -49,17 +49,20 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 
 # Program
 
-<img width="1600" height="988" alt="WhatsApp Image 2026-05-28 at 21 25 59" src="https://github.com/user-attachments/assets/43c2856f-9b6d-425a-b5a6-9542c2a4e4f2" />
+<img width="1918" height="1105" alt="image" src="https://github.com/user-attachments/assets/c52937c8-38af-4ac4-98d5-44b291980ea2" />
+
 
 
 # Output Graph
 
-<img width="1600" height="877" alt="WhatsApp Image 2026-05-28 at 21 26 45" src="https://github.com/user-attachments/assets/31ff990a-3f65-4e1a-a36c-d82a39c3be20" />
+<img width="1918" height="1112" alt="image" src="https://github.com/user-attachments/assets/577934b3-3116-43af-9e70-996441b34abe" />
+
 
 
 # Tablular Column
 
-<img width="1280" height="684" alt="WhatsApp Image 2026-05-28 at 21 27 11" src="https://github.com/user-attachments/assets/c0700f22-252d-4be6-b962-af385fb5b1fe" />
+<img width="1340" height="896" alt="WhatsApp Image 2026-06-08 at 10 47 36 AM (2)" src="https://github.com/user-attachments/assets/34ea0381-3840-44a1-9146-c0e57eb72026" />
+
 
 
 # Result
